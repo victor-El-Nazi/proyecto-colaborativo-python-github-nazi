@@ -15,3 +15,7 @@ Aplicación colaborativa en Python para registrar tareas y mejorar el trabajo en
 - Python 3.x
 - Git
 - GitHub / GitLab
+
+Proyecto creado por estudiantes - usando Git y GitHub
+
+Actualizacion de autor en README.md
