@@ -17,3 +17,5 @@ Aplicación colaborativa en Python para registrar tareas y mejorar el trabajo en
 - GitHub / GitLab
 
 Interaccion con git
+
+Uso de commits con git
