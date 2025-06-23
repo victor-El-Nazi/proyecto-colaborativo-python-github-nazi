@@ -19,3 +19,7 @@ Aplicación colaborativa en Python para registrar tareas y mejorar el trabajo en
 ## Cambios de Victor
 - Esta es una prueba del proyecto en la rama `rama-victor-nazi`.
 - Agrego esta sección como prueba para la práctica colaborativa de software.
+
+## Cambios de Victor 2
+- cedula 0952177376
+- telefono 0960604638
