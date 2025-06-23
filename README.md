@@ -19,3 +19,5 @@ Aplicación colaborativa en Python para registrar tareas y mejorar el trabajo en
 Proyecto creado por estudiantes - usando Git y GitHub
 
 Actualizacion de autor en README.md
+
+Participante: Franklin Alejandro Mendoza Mayorga
