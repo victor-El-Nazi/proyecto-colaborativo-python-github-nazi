@@ -15,3 +15,7 @@ Aplicación colaborativa en Python para registrar tareas y mejorar el trabajo en
 - Python 3.x
 - Git
 - GitHub / GitLab
+
+## Cambios de Victor
+- Esta es una prueba del proyecto en la rama `rama-victor-nazi`.
+- Agrego esta sección como prueba para la práctica colaborativa de software.
