@@ -21,6 +21,6 @@ Proyecto creado por estudiantes - usando Git y GitHub
 Actualizacion de autor en README.md
 
 Participante: Franklin Alejandro Mendoza Mayorga
-
+Participante: Mayerli Jamilet orellana Mendoza
 
 Este cambio es para la práctica de commits.
